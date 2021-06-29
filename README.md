@@ -21,3 +21,5 @@ randomID(10);
 
 That function will generate random 10 characters long ID. For arguments you need to put any ***number***.<br/>
 Have a good **fun** and keep ***CODING***
+
+[link for npm](https://www.npmjs.com/package/@tomsz24/id-generator)
